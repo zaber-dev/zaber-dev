@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahedi Zaman Zaber</h1>
-![gitartwork](gitartwork.svg)
+
 <h3 align="center">I'm a Driven and ambitious individual who is currently pursuing a Bachelor of Science in Computer Science and Engineering. With a passion for innovation and a desire to make a lasting impact, I aspire to become a distinguished software engineer and entrepreneur.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedizaber51&label=Profile%20views&color=0e75b6&style=flat" alt="mahedizaber51" /> </p>
