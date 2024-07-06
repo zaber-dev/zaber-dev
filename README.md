@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Python, PHP, HTML, CSS, Django, WordPress**
 
-- 📫 How to reach me **mahedizaber51@zealtyro.com**
+- 📫 How to reach me **zaber@zealtyro.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
