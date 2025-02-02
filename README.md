@@ -1,13 +1,13 @@
-<div align="right"><img src="https://komarev.com/ghpvc/?username=mahedizaber51&label=Profile%20views&color=0e75b6&style=flat" alt="mahedizaber51" /></div>
-<div align="center"><img src="https://raw.githubusercontent.com/MahediZaber51/MahediZaber51/main/gitartwork.svg"></div>
+<div align="right"><img src="https://komarev.com/ghpvc/?username=zaber-dev&label=Profile%20views&color=0e75b6&style=flat" alt="zaber-dev" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/zaber-dev/zaber-dev/main/gitartwork.svg"></div>
 <h3 align="center">I'm a Driven and ambitious individual who is currently pursuing a Bachelor of Science in Computer Science and Engineering. With a passion for innovation and a desire to make a lasting impact, I aspire to become a distinguished software engineer and entrepreneur.</h3>
 
 <div align="center">
-<a href="https://twitter.com/mahedizaber" target="blank"><img src="https://img.shields.io/twitter/follow/mahedizaber?logo=twitter&style=for-the-badge" alt="mahedizaber" /></a>
+<a href="https://twitter.com/zaberdev" target="blank"><img src="https://img.shields.io/twitter/follow/zaberdev?logo=twitter&style=for-the-badge" alt="zaberdev" /></a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MahediZaber51&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=zaber-dev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 
@@ -25,16 +25,16 @@
 
 - 📫 How to reach me [**zaber@zealtyro.com**](mailto:zaber@zealtyro.com)
 
-<div align="center"><img src="https://raw.githubusercontent.com/MahediZaber51/MahediZaber51/output/snake.svg" alt="Snake animation" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/zaber-dev/zaber-dev/output/snake.svg" alt="Snake animation" /></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mahedizaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahedizaber" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahedizaber51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahedizaber51" height="30" width="40" /></a>
-<a href="https://facebook.com/mahedizaber51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahedizaber61" height="30" width="40" /></a>
-<a href="https://instagram.com/mahedizaber51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahedizaber51" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zealtyro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zealtyro" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mahedizaber51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahedizaber51" height="30" width="40" /></a>
+<a href="https://twitter.com/zaberdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaberdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zaberdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaberdev" height="30" width="40" /></a>
+<a href="https://facebook.com/zaberdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zaberdev" height="30" width="40" /></a>
+<a href="https://instagram.com/zaberdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaberdev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@zaberdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zaberdev" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/zaberdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zaberdev" height="30" width="40" /></a>
 <a href="/https://blog.zealtyro.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.zealtyro.com/feed/" height="30" width="40" /></a>
 </p>
 
@@ -43,11 +43,11 @@
 
 
 <div align="center" style="display: flex; flex-direction: row;">
-  <img width="33%" height="172" src="https://github-readme-stats.vercel.app/api?username=MahediZaber51&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
-  <img width="33%" height="172" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahediZaber51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"  alt="languages graph"  />
-  <img width="33%" height="172" src="https://streak-stats.demolab.com?user=MahediZaber51&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
+  <img width="33%" height="172" src="https://github-readme-stats.vercel.app/api?username=zaber-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
+  <img width="33%" height="172" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaber-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"  alt="languages graph"  />
+  <img width="33%" height="172" src="https://streak-stats.demolab.com?user=zaber-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahediZaber51&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaber-dev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
