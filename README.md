@@ -30,6 +30,10 @@ I am a 3rd-year Computer Science student at IUBAT (CGPA: 3.87) , blending techni
 - ⚙️ **Hardware & IoT:** Designing the ZealTyro Smart Stick (a multi-port hardware product) and engineering Arduino-based Smart Medication Reminder systems.
 - ✍️ **Writing:** Blogging since the 5th grade, and currently publishing technical guides, product reviews, and academic papers on distributed systems .
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zaber-dev/zaber-dev/output/snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -76,6 +80,7 @@ I am a 3rd-year Computer Science student at IUBAT (CGPA: 3.87) , blending techni
   <img width="33%" height="172" src="https://streak-stats.demolab.com?user=zaber-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
 </div>
 <br>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zaber-dev/zaber-dev/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaber-dev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
