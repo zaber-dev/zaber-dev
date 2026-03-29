@@ -68,13 +68,12 @@ I am a 3rd-year Computer Science student at IUBAT (CGPA: 3.87) , blending techni
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaber-dev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Zaber's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaber-dev&layout=compact&theme=dracula&hide_border=true&langs_count=5" width="48%" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zaber-dev&theme=dracula&hide_border=true" width="100%" alt="Zaber's GitHub Streak" />
+<div align="center" style="display: flex; flex-direction: row;">
+  <img width="33%" height="172" src="https://github-readme-stats-fast.vercel.app/api?username=zaber-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
+
+  <img width="33%" height="172" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=zaber-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"  alt="languages graph"  />
+
+  <img width="33%" height="172" src="https://streak-stats.demolab.com?user=zaber-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
 </div>
 <br>
 <div align="center">
