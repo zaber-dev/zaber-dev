@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-I am a 3rd-year Computer Science student at IUBAT (CGPA: 3.87) , blending technical execution with an entrepreneurial vision. As the Founder of ZealTyro and Project Lead for Overlumens , I focus on turning complex problems into working prototypes and scalable products. My expertise spans the TALL stack, offline-first mobile architecture, and the Stellar network . I am also actively engaged in academia, having co-authored and presented blockchain-focused research at IEEE conferences .
+I am a 3rd-year Computer Science student at IUBAT (CGPA: 3.89) , blending technical execution with an entrepreneurial vision. As the Founder of ZealTyro and Project Lead for Overlumens , I focus on turning complex problems into working prototypes and scalable products. My expertise spans the TALL stack, offline-first mobile architecture, and the Stellar network . I am also actively engaged in academia, having co-authored and presented blockchain-focused research at IEEE conferences .
 
 - 🌐 **Full-Stack Ecosystems:** Building modular platforms, SaaS products, and e-commerce solutions using Laravel and WordPress .
 - ⛓️ **Blockchain & Web3:** Architecting the Overlumens ecosystem on Stellar, developing bridging tokens, and building custom SDKs and liquidity tools .
